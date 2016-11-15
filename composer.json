@@ -1,7 +1,7 @@
 {
     "name": "gribov/btc-framework",
     "type": "library",
-    "licence":"GNU GPL",
+    "licence":"GNU GPL v.3",
     "require": {
         "twig/twig": "^1.27",
         "twbs/bootstrap": "^3.3",
