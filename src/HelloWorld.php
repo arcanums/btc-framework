@@ -12,6 +12,6 @@ namespace HelloWorld;
 class HelloWorld
 {
 	public static function sayHelloWorld() {
-		return 'Hello World';
+		return 'Hello World2';
 	}
 }
